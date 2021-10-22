@@ -1,1 +1,5 @@
+# exclude everything
 jenkins_home/*
+
+# exception to the rule
+!jenkins_home/.gitkeep 
